@@ -42,6 +42,7 @@
   {"name":"八王子","pref":"東京都","line":"JR中央線","passengers":120000},
   {"name":"昭島","pref":"東京都","line":"JR青梅線","passengers":35000},
   {"name":"秋川","pref":"東京都","line":"JR五日市線","passengers":8700},
+  {"name":"武蔵増戸","pref":"東京都","line":"JR五日市線","passengers":1300},
   {"name":"武蔵五日市","pref":"東京都","line":"JR五日市線","passengers":8000},
   {"name":"錦糸町","pref":"東京都","line":"JR総武線","passengers":125000},
   {"name":"亀戸","pref":"東京都","line":"JR総武線","passengers":72000},
